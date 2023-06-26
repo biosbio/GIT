@@ -1,0 +1,276 @@
+    1  git status
+    2  ls
+    3  git init
+    4  ls
+    5  dir
+    6  dir
+    7  ls
+    8  exit
+    9  ssh-keygen -t ed25519 -C sitnaiala@gmail.com
+   10  cd /c/KUFUK/.ssh
+   11  cd /c/Users/KUFUK/.ssh/id_ed25519
+   12  cd /c/Users/KUFUK/.ssh
+   13  ls
+   14  ls
+   15   ssh-keygen -t ed25519 -C sitnaiala@gmail.com
+   16  cd /c/Users/KUFUK/.ssh
+   17  ls
+   18  cat id_ed25519.pub
+   19  clear
+   20  pwd
+   21  eval $(ssh-agent -s)
+   22  ssh-add id_ed25519
+   23  /cd /d
+   24  cd ..
+   25  ls
+   26  cd ..
+   27  cd ..
+   28  cd ..
+   29  ls
+   30  cd ..
+   31  ls
+   32  cd /c
+   33  ls
+   34  cd ..
+   35  cd /f
+   36  cd /d
+   37  ls
+   38  cd WORKSPACE/
+   39  ls
+   40   mkdir TESTECLONE
+   41  CD TESTECLONE/
+   42  cd TESTECLONE/
+   43  git clone git@github.com:biosbio/Livro-Receitas.git
+   44  ls
+   45  git config -e
+   46  git clone https://github.com/biosbio/Livro-Receitas.git
+   47  cd ..
+   48  git clone https://github.com/biosbio/Livro-Receitas.git
+   49  cd .. 
+   50  git clone https://github.com/biosbio/Livro-Receitas.git
+   51  git tag
+   52  git alias tag
+   53  git config tag
+   54  git config --global alias.LOG 'log --pretty=oneline'
+   55  git config alias.LOG 'log --pretty=oneline'
+   56  git --global alias.LOG 'log --pretty=oneline'
+   57  git alias.LOG 'log --pretty=oneline'
+   58  git tag
+   59   git lg --all
+   60   git log --all
+   61  git init
+   62  dir
+   63  cat TCC___REGINALDO.pdf 
+   64  ;15;21;22;28;29c64;1;2;4;6;9;11;15;21;22;28;29c5;21;22;28;29c4;1;2;4;6;9;11;15;21;22;28;29c64;1;2;4;6;9;11;15;21;22;28;29c5;21;22;28;29c4;1;2;4;6;9;11;15;21;22;28;29c21;22;28;29c
+   65  ls
+   66  cd ..
+   67  ls
+   68  cd c/
+   69  cd ls
+   70  cd /
+   71  ls
+   72  cd C:
+   73  ls
+   74  cd ..
+   75  cd E:
+   76  ls
+   77  cd Users/
+   78  ls
+   79  cd 55119/
+   80  cp 55119/ c/novapasta
+   81  cp 55119/ c/novapasta -r
+   82  cp 55119/ c/ -r
+   83  cp 55119/ c/users/kufuk/desktop
+   84  cp 55119/ 
+   85  cp 55119/ C:\Users\KUFUK\Desktop
+   86  cp 55119/ C:\Users\KUFUK\Desktop -r
+   87  ls
+   88  cd defaultuser1/
+   89  ls
+   90  ls
+   91  refresh
+   92  fresh
+   93  git
+   94  LS
+   95  cd /d/WORKSPACE/TOTI/git
+   96  ls
+   97  git init
+   98  git status
+   99  rm -r texte.txt 
+  100  echo #Aprendendo vercionamento git>Readme.md
+  101  ls
+  102  echo '#Aprendendo vercionamento git'>Readme.md
+  103  ls
+  104  cat Readme.md 
+  105  git status
+  106  git add.
+  107  git add .
+  108  git status
+  109  git commit -m "commit inicial toti"
+  110  git status
+  111  cat >Readme.md 
+  112  git status
+  113  echo 'Moises"> Participante.txt
+  114  git status
+  115  ls
+  116  git init
+  117  gi status
+  118  git status
+  119  echo #Moises>Testando.txt
+  120  git status
+  121  git add .
+  122  git status
+  123  ls
+  124  echo '#Teste>Participantes.txt
+  125  bom
+  126   git status
+  127  echo #teste > Participante.txt
+  128  ls
+  129  echo '#Teste > Participante.txt
+  130  echo #teste > Participante.txt
+  131  ls
+  132  echo '#Teste' >Participantes.txt
+  133  ls
+  134  cat>Participantes.txt 
+  135  cat Participantes.txt 
+  136  cat>Participantes.txt 
+  137  cat Participantes.txt 
+  138  cat>>Participantes.txt
+  139  cat Participantes.txt 
+  140  git status
+  141  git add .
+  142  got status
+  143  git status
+  144  git restore --staged Participantes.txt 
+  145  git status
+  146  git add .
+  147  ls
+  148  git status
+  149  git restore --staged .
+  150  git status
+  151  git commit -am 'Alteração no readme"
+  152  git commit -am 'Alteração no readme'
+  153  clear
+  154  git log
+  155  git log --pretty=oneline
+  156  git log --stat
+  157  git log -p
+  158  git log --pretty=oneline -1
+  159  git log --pretty=oneline -2
+  160  git log --since=2hours
+  161  git log --since=2weeks
+  162  git log author=biosbio
+  163  git log author='biosbio'
+  164  git log --author='biosbio'
+  165  git reset --soft HEAD~
+  166  git status
+  167  touch Teste
+  168  git add .
+  169  git commit -m "subindo arquivos para testar  reset"
+  170  git reset --soft HEAD~
+  171  git log
+  172  git status
+  173  git commit -m "Subindo depois de usar soft"
+  174  git reset --hard HEAD~
+  175  git log
+  176  git status
+  177  git log --pretty=oneline
+  178  git checkout HEAD~
+  179  ls
+  180  git log
+  181  git checkout master
+  182  git log
+  183  clear
+  184  mkdir .vscode
+  185  cd .vscode/
+  186  touch config.txt
+  187  ls
+  188  ls -a
+  189  cd ..
+  190  ls -a
+  191  git status
+  192  echo '.vscode/' > .gitignore
+  193  git status
+  194  touch pessoal.config
+  195  git status
+  196  echo 'pessoal.config/' >> .gitignore
+  197  git status
+  198  echo 'pessoal.config' >> .gitignore
+  199  git status
+  200  git commit -m "Adicionar Arquivo .gitignore"
+  201  history > Comandos Aula_4.txt
+  202  history > Aula_4.txt
+  203  git add .
+  204  git status
+  205  git restore --stage Aula_4.txt 
+  206  git status
+  207  git commit -am "Comitando .gitignote e Comandos"
+  208  git status
+  209  git add *
+  210  git commit -m "Comanda da Aula 4"
+  211  git log
+  212  git log --pretty=oneline
+  213  git log -2
+  214  git log --pretty=oneline-2
+  215  git log -p -2
+  216  git reset --hard HEAD^1
+  217  git log --pretty=oneline
+  218  git status
+  219  git log
+  220  git log --pretty=oneline
+  221  git branch
+  222  git checkout -b feature
+  223  git branch
+  224  touch Nova_Feature
+  225  git status
+  226  git add .
+  227  git commit -m "Trocando de Branch"
+  228   git log
+  229  git checkout -b master
+  230  git checkout master
+  231  git status
+  232  git log
+  233  touch Voltando_noMaster
+  234  git add .
+  235  git commit -m "Subindo de novo no Master depois de sair de Feature"
+  236  git log
+  237  git checkout -b master2 master
+  238  git log
+  239  git checkout -d master2
+  240  git branch -d master2
+  241  git log
+  242  git checkout mastere
+  243  git checkout master2
+  244  git checkout feature
+  245  git checkout master
+  246  clear
+  247  git checkout feature
+  248  git log
+  249  git log --pretyy=oneline
+  250  git log --pretty=oneline
+  251  git checkout master
+  252  touch NOvo.txt
+  253  git status
+  254  touch Mais_novo.md
+  255  touch outrQrquivo.txt
+  256  git add NOvo.txt 
+  257  git commit -m "Carregar Novo.txt"
+  258  git add Mais_novo.md 
+  259  git commit -m 'mais um subindo"
+  260  git status
+  261  git commit -m 'mais um subindo'
+  262  git add outrQrquivo.txt 
+  263  git commit -m "igualando o professor"
+  264  git log --pretty=oneline
+  265  git log --pretty=online
+  266  git log --pretty=oneline -- graph
+  267  git log --pretty=oneline --graph
+  268  git checkout feature
+  269  git marge master
+  270  git merge master
+  271  git log
+  272  git log --pretty=oneline --graph
+  273  git reset --hard HEAD~
+  274  git rebase master
+  275  git log --pretty=oneline --graph
+  276  history > Aula_5.txt
