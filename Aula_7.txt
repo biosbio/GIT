@@ -1,0 +1,12 @@
+    1  git remote add origin https://github.com/biosbio/GIT.git
+    2  LS
+    3  git remote
+    4  git push origin master
+    5  git push -u origin master
+    6  git logpg
+    7  git pull origin master
+    8  git logpg
+    9  cat Readme.md 
+   10  git push origin master --tags
+   11  history > Aula_7
+   12  history > Aula_7.txt
